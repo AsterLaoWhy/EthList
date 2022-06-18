@@ -12,11 +12,11 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 ## Introduction
 
 #### Simple explanations of Ethereum
-- [ ] [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
-- [ ] [Minimal Blockchain Learning Hands-on CLI](https://github.com/daxeel/blockshell)
-- [ ] [Coin Demo - Visual demonstration of cryptocurrency technologies](https://coindemo.io)
-- [ ] [Visual demonstration of a blockchain](https://anders.com/blockchain/)
-- [ ] [Ethereum the world computer](https://www.youtube.com/watch?v=j23HnORQXvs) (video)
+- [X] [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
+- [X] [Minimal Blockchain Learning Hands-on CLI](https://github.com/daxeel/blockshell)
+- [X] [Coin Demo - Visual demonstration of cryptocurrency technologies](https://coindemo.io)
+- [X] [Visual demonstration of a blockchain](https://anders.com/blockchain/)
+- [X] [Ethereum the world computer](https://www.youtube.com/watch?v=j23HnORQXvs) (video)
 - [ ] [Vitalik Buterin explains Ethereum](https://www.youtube.com/watch?v=TDGq4aeevgY) (video)
 - [ ] [Joseph Lubin's interview on building decentralized applications](https://www.youtube.com/watch?v=MgLmY9oedTM) (video)
 - [ ] [BBC explains Ethereum](https://www.youtube.com/watch?v=0X33lgMbvdI) (video)
